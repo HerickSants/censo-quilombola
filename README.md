@@ -64,4 +64,4 @@ Para dúvidas ou problemas, abra uma issue neste repositório.
 
 ---
 
-**Desenvolvido com ❤️ para comunidades quilombolas** 
+**Desenvolvido com ❤️ para comunidades quilombolas**  
